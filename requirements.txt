@@ -1,0 +1,4 @@
+django==4.2.7              
+djangorestframework==3.14.0
+pip==23.3
+python==3.9.18
